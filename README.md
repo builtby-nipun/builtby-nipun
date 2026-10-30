@@ -1,16 +1,15 @@
 ## Hi there 👋
+# I'm Nipun 
 
-<!--
-**nipunwadyalkar-sketch/nipunwadyalkar-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Computer Science student at Acadia University.
+Software Development major with a second major in Business.
+Seeking co-op opportunities | Open to relocation
 
-Here are some ideas to get you started:
+### Currently Working On
+Building my GitHub portfolio and documenting my software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools
+Python · Java · C · HTML · CSS · Git · GitHub
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/nipun-wadyalkar) · [Email](mailto:nipunwadyalkar@gmail.com)
