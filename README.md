@@ -3,23 +3,32 @@
 
 Applied Computer Science student at Acadia University  
 Software Development major · Second major in Business  
-Seeking software development co-ops and internships · Open to relocation
+Seeking software development and data/analytics internships · Open to relocation
 
 ### Currently Working On
-Building my GitHub portfolio and documenting my software projects,
-starting with my Student-Centered Planner.
+Building my GitHub portfolio and documenting my software projects.
 
-### Technical Skills
-- Languages: Python, Java, C, C++
-- Front-End: HTML, CSS, responsive layouts, reusable UI components
-- Fundamentals: Data Structures & Algorithms, Object-Oriented Programming
-- Tools & Practices: Git, GitHub, Agile/Scrum, collaborative development
-- User Experience: Interface design, user feedback, iterative improvement
+### Languages
+Java · C++ · Python · JavaScript · TypeScript · C · SQL · HTML · CSS
 
-### Project Highlight
-Student-Centered Planner — Front-end developer in a team of three.
-Built dashboard and task-management interfaces using HTML/CSS and
-collaborated on integration with teammate-developed JavaScript functionality.
+### Development
+React · Node.js · Express.js · Flask · FastAPI · Spring Boot  
+REST APIs · WebSockets · Socket.IO · WebRTC
+
+### Data & Databases
+Pandas · Apache Spark/PySpark · ETL · Data Quality  
+PostgreSQL · MongoDB · SQLite · Redis · Firebase
+
+### Cloud & Developer Tools
+Azure · Docker · Docker Compose · Terraform · GitHub Actions · CI/CD  
+Linux · Git · GitHub · Postman
+
+### Software Engineering
+OOP · Data Structures & Algorithms · Design Patterns · SDLC · Agile/Scrum
+
+### Business & Analytics
+Requirements Gathering · Stakeholder & B2B Communication · Process Improvement  
+Operations · Data Analysis · Excel · Documentation · Root Cause Analysis
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/nipun-wadyalkar) · [Email](mailto:nipunwadyalkar@gmail.com)
